@@ -1,4 +1,4 @@
-#include<stdio.h>
+0#include<stdio.h>
 /*
 (1) Wap to perform all arithmetic operator such as
 +, -, *, /, %
